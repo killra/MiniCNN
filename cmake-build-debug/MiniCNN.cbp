@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MiniCNN"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniCNN">
+				<Option output="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/MiniCNN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 MiniCNN"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniCNN/fast">
+				<Option output="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/MiniCNN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 MiniCNN/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/ActivationLayer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/CalcFunctions.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/FullyConnectedLayer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/InputLayer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/Layer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/LossFunction.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/MiniCNN.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/Network.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/Optimizer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/SoftmaxLayer.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/Tensor.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/ThreadPool.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/include/mnist_data_loader.h">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/main.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/ActivationLayer.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/CalcFunctions.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/FullyConnectedLayer.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/InputLayer.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/LossFunction.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/Network.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/Optimizer.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/SoftmaxLayer.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/Tensor.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/ThreadPool.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/mnist_data_loader.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/src/mnist_train_test.cpp">
+			<Option target="MiniCNN"/>
+		</Unit>
+		<Unit filename="/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

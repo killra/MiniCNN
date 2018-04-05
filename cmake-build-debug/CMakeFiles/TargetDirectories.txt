@@ -1,0 +1,3 @@
+/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangchen/Documents/MiniCNN/CLionProject/MiniCNN/cmake-build-debug/CMakeFiles/MiniCNN.dir
